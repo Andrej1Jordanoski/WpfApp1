@@ -1,0 +1,11 @@
+﻿<Application x:Class="WpfApp1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="Boja" Color="#3461eb"/>
+        <SolidColorBrush x:Key="ButtonColor" Color=" #f23222"/>
+        <SolidColorBrush x:Key="LineColor" Color=" #01fd0a"/>
+    </Application.Resources>
+</Application>
